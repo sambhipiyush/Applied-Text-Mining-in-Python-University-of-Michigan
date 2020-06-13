@@ -24,7 +24,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 #### Module 1: Working with Text in Python
 
-**Graded:** Module 1 Quiz
+**Graded:** Module 1 Quiz\
 **Graded:** Assignment 1 Submission
 
 ### WEEK 2
@@ -36,7 +36,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 #### Module 2: Basic Natural Language Processing
 
-**Graded:** Module 2 Quiz
+**Graded:** Module 2 Quiz\
 **Graded:** Assignment 2 Submission
 
 ### WEEK 3
@@ -50,7 +50,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 #### Module 3: Classification of Text
 
-**Graded:** Module 3 Quiz
+**Graded:** Module 3 Quiz\
 **Graded:** Assignment 3 Submission
 
 ### WEEK 4
@@ -62,7 +62,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 #### Module 4: Topic Modeling
 
-**Graded:** Module 4 Quiz
+**Graded:** Module 4 Quiz\
 **Graded:** Assignment 4 Submission
 
 #
