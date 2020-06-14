@@ -17,7 +17,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 ### MODULE 1
 
-**Key Concepts**
+* **Key Concepts**
 	* Interpret text in terms of its basic building blocks: sentences and words.
 	* Identify common problems with raw text and perform text cleaning tasks in Python.
 	* Write regular expressions to find textual patterns.
@@ -31,7 +31,7 @@ You will be introduced to basic text mining tasks, and will be able to interpret
 
 ### MODULE 2
 
-**Key Concepts**
+* **Key Concepts**
 	* Describe different natural language tasks.
 	* Process free text through the NLTK toolkit to tag language constructs onto text.
 	* Derive meaningful features from text.
@@ -45,7 +45,7 @@ You will delve into NLTK, a very popular toolkit for processing text in Python. 
 
 ### MODULE 3
 
-**Key Concepts**
+* **Key Concepts**
 	* Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well)
 	* Describe the Naive Bayes and Support Vector Machine algorithms
 	* Classify text in two classes using one of these approaches in Python
@@ -61,7 +61,7 @@ You will engage with two of the most standard text classification approaches, vi
 
 ### MODULE 4
 
-**Key Concepts**
+* **Key Concepts**
 	* Apply WordNet-based similarity measures on text
 	* Derive semantic topics from a large text collection using LDA
 	* List and describe techniques for named entity recognition and other information extraction tasks.
