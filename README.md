@@ -15,7 +15,7 @@ This course should be taken after: Introduction to Data Science in Python, Appli
 
 ## Syllabus
 
-### MODULE 1
+### WEEK 1
 
 * **Key Concepts**
 	* Interpret text in terms of its basic building blocks: sentences and words.
@@ -29,7 +29,7 @@ You will be introduced to basic text mining tasks, and will be able to interpret
 **Graded:** Module 1 Quiz\
 **Graded:** Assignment 1 Submission
 
-### MODULE 2
+### WEEK 2
 
 * **Key Concepts**
 	* Describe different natural language tasks.
@@ -43,7 +43,7 @@ You will delve into NLTK, a very popular toolkit for processing text in Python. 
 **Graded:** Module 2 Quiz\
 **Graded:** Assignment 2 Submission
 
-### MODULE 3
+### WEEK 3
 
 * **Key Concepts**
 	* Compare text classification to other classification approaches (covered in Applied Machine Learning in Python as well)
@@ -59,7 +59,7 @@ You will engage with two of the most standard text classification approaches, vi
 **Graded:** Module 3 Quiz\
 **Graded:** Assignment 3 Submission
 
-### MODULE 4
+### WEEK 4
 
 * **Key Concepts**
 	* Apply WordNet-based similarity measures on text
