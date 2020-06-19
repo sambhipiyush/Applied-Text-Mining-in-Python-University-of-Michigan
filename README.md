@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="javascript:void(0)" rel="noopener">
- <img width=400px  src="https://github.com/sambhipiyush/Applied-Text-Mining-in-Python-University-of-Michigan/blob/master/U-M-logo-preview.jpg" alt="Git logo"></a>
+ <img width=400px  src="U-M-logo-preview.jpg" alt="UM-logo"></a>
 </p>
 
 #### Instructor(s) : V. G. Vinod Vydiswaran, Assistant Professor
