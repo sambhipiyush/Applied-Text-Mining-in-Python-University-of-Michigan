@@ -167,15 +167,14 @@ by University of Michigan
 			 <img width=400px  src="notesImages/topic_modelling_image1.png" alt="topic_modelling_image1"></a>
 			</p>
 * When a new document comes in, in this case this article on seeking life's bare genetic necessities, it comes with it of topic distribution
-
 * **Topic Modelling**
-* Topic modeling is a coarse-level analysis of what is in a text collection
-* When you have a large corpus, and you want to make sense of what this collection is about, you would probably use topic modeling
-* **Topic** : The subject of theme of a discourse
-* Topics are represented as a word distribution
-	* that means that you have some probability of a word appearing in that topic
-		* different words have different probabilities in that topic
-	* So for a particular word, you have different distribution or probable occurring from a topic, and topics are basically this probability of distribution over all words
+	* Topic modeling is a coarse-level analysis of what is in a text collection
+	* When you have a large corpus, and you want to make sense of what this collection is about, you would probably use topic modeling
+	* **Topic** : The subject of theme of a discourse
+	* Topics are represented as a word distribution
+		* that means that you have some probability of a word appearing in that topic
+			* different words have different probabilities in that topic
+		* So for a particular word, you have different distribution or probable occurring from a topic, and topics are basically this probability of distribution over all words
 * **Document** is assumed to be a mixture of topics
 	* Example of topics
 		<p align="center">
@@ -267,7 +266,6 @@ by University of Michigan
 * Most traditional traditional information that is structured
 * Abundance of information now is in unstructured free text form
 * How do you extract relevent information from unstructured text?
-
 * **Information Extraction**
 	* **Goal**:  Identify and extract fields of interest from free text
 	* Fields of Interest
